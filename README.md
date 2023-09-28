@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nehemiahlc
 - 👀 I’m interested in cybersecuirty
-- 🌱 I’m currently learning ethical hacking
+- 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on any projects related to cyber security
 
 
