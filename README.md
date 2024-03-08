@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nehemiahlc
-- 👀 I’m interested in cloud engineering
+- 👀 I’m interested in software and cloud engineering
 - 🌱 I’m currently learning cloud computing, bash scripting and Python
 - 💞️ I’m looking to collaborate on any projects that will help me build my skills
 - [Explore My Home Labs
