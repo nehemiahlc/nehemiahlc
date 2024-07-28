@@ -2,7 +2,7 @@
 
 -💻 I’m interested in software engineering specifically mobile app development!
 
--💭 I’m currently learning Swift, SwiftUI and UIkit.
+-💭 I’m currently learning Swift and UIkit.
 
 - 📝 I'm looking to collaborate on any projects that will help me build my skills.
 - [Explore My Home Labs
