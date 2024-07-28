@@ -1,4 +1,4 @@
--👋🏾 Hi, I’m @nehemiahlc
+-👋🏾 Hi, I’m @code nemo
 
 -💻 I’m interested in software engineering specifically mobile app development!
 
