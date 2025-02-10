@@ -1,6 +1,6 @@
 -👋🏾 Hi, I’m @code nemo
 
--💻 I’m interested in all thingd software engineering!
+-💻 I’m interested in all things software engineering!
 
 -💭 I’m currently learning Java.
 
