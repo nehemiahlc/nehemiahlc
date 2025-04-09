@@ -1,11 +1,9 @@
--👋🏾 Hi, I’m @code nemo, a self-taught **software engineer** passionate about backend development, algorithms, and problem-solving.
+👋🏾 Hey, I’m @code-nemo — a self-taught web developer on a mission to master the modern web.
 
-🔧 I have hands-on experience with **Siwft** and **Python**, and I'm currently learning **Java**, and **Spring Boot**, while also expanding my knowledge of data structures, algorithms, and cloud technologies
+⚛️ I'm currently focused on learning JavaScript, React, React Native, and Next.js by building cool projects.
 
-💻 I love solving LeetCode-style problems to enhance my algorithmic thinking and technical skills.
+🎥 I create cinematic + funny YouTube videos and social media content to document my journey and inspire others.
 
-🌱 I’m eager to contribute to open-source projects to gain experience and give back to the community, while also building a foundation for future bounty sourcing, SaaS, or freelance opportunities.
-
-🗒️ Check out my repositories to see what I’ve been working on!
+🌱 Open-source contributions, freelance work, and launching my own apps? That’s the roadmap. I’m building it in public, and you’re invited.
 
 🔗 Find me on:  [LinkedIn](https://www.linkedin.com) | [Youtube](https://www.youtube.com/@itsCodeNemo)
