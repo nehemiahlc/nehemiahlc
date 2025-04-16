@@ -1,4 +1,4 @@
-👋🏾 Hey, I’m @code-nemo — a self-taught web developer on a mission to master the modern web.
+👋🏾 Hey, I’m @code-nemo — just a self-taught dev chasing the work from anywhere dream.
 
 ⚛️ I'm currently focused on learning JavaScript, React, React Native, and Next.js by building cool projects.
 
