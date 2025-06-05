@@ -1,4 +1,4 @@
-👋🏾 Hey, I’m @code-nemo — just a self-taught dev chasing the work from anywhere dream.
+👋🏾 Hey, I’m @neomosance, just a self-taught dev who likes to build.
 
 ⚛️ Currently learning JavaScript, React, and Next.js by building cool projects.
 
